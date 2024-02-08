@@ -1,7 +1,7 @@
 # weather_analyzer
 This is an old project about analyzing large sets of weather-related data. Time of development: 11/2019 - 03/2020
 
-There are 3 different analyzers
+There are 3 different analyzers:
 
 
 1 - average_temp_variation
