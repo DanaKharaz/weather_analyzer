@@ -1,5 +1,5 @@
 # weather_analyzer
-This is an old project about analyzing large sets of weather-related data. There are 3 different analyzers.
+This is an old project about analyzing large sets of weather-related data. There are 3 different analyzers. Time of development: 11/2019 - 03/2020
 
 
 1 - average_temp_variation
