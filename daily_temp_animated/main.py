@@ -1,3 +1,9 @@
+"""
+Reads weather records for multiple cities from 1948 until 2018.
+Asks the user for a start date.
+On a map shows the average day temperature for each city starting from that date.
+"""
+
 import time
 from tkinter import *
 canvas_width=450
