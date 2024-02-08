@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Reads weather records from 1948 until 2018.
-Then plots the veriation of average temperature from 1949 until 2018 for each month and overall as well.
+Then plots the variation of average temperature from 1949 until 2018 for each month and overall as well.
 The graphs are very basic, not labeled in any way.
 """
 
